@@ -18,5 +18,3 @@
 'Взяти всі покупки користувача'
 `bridge.php?get_check=4,9421004,products`
 
-
-# bridge
