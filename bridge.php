@@ -16,7 +16,7 @@ class Bridge {
             'database_name' => 'Bridge',
             'server' => 'localhost',
             'username' => 'sa',
-            'password' => '2v5vumh2v5vumH',
+            'password' => '*',
             'charset' => 'utf8'
         ]);
     }
